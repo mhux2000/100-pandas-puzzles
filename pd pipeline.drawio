@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-05T09:53:47.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="9Po61dRENKpjiq2LmkO5" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-05T10:10:52.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="IosbKa0f2riQR9lsNLQL" version="12.9.12" type="github">
   <diagram id="h2Ekng3nKD6AUE0XQyBu" name="Page-1">
     <mxGraphModel dx="1900" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,13 +139,13 @@
         <mxCell id="TnOFQxvbB9NTdEsJO5RE-88" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TnOFQxvbB9NTdEsJO5RE-86">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="TnOFQxvbB9NTdEsJO5RE-89" value="quality assessments&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TnOFQxvbB9NTdEsJO5RE-86">
+        <mxCell id="TnOFQxvbB9NTdEsJO5RE-89" value=".&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TnOFQxvbB9NTdEsJO5RE-86">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TnOFQxvbB9NTdEsJO5RE-91" value="" style="shape=mxgraph.cisco.switches.class_4_5_switch;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="546" width="69" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TnOFQxvbB9NTdEsJO5RE-92" value="" style="shape=rhombus;html=1;verticalLabelPosition=top;verticalAlignment=bottom;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="TnOFQxvbB9NTdEsJO5RE-92" value="" style="shape=rhombus;html=1;verticalLabelPosition=top;verticalAlignment=bottom;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="130" y="242" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
