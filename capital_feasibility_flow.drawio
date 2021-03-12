@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T14:34:41.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="kkd0Q2kHGSRVbSdGm73a" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T14:42:17.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="23GQqKAOk84oKXp7hkie" version="14.4.7" type="github">
   <diagram id="1tGM-mNeWj_CG0N2Zrfr" name="Page-1">
     <mxGraphModel dx="1629" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,10 +69,10 @@
           <mxGeometry x="822.5" y="500" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYJ6m2SB3RSywZIDTyrv-26" value="change input and characteristics of alternative featureset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="580" width="110" height="70" as="geometry" />
+          <mxGeometry x="390" y="571.25" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYJ6m2SB3RSywZIDTyrv-27" value="Define and add alternative algorithms for feature creation&lt;br&gt;if needed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="855" y="570" width="110" height="92.5" as="geometry" />
+          <mxGeometry x="822.5" y="560" width="175" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="fYJ6m2SB3RSywZIDTyrv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fYJ6m2SB3RSywZIDTyrv-29">
           <mxGeometry relative="1" as="geometry">
@@ -92,7 +92,7 @@
           <mxGeometry x="1290" y="270" width="140" height="60.76" as="geometry" />
         </mxCell>
         <mxCell id="fYJ6m2SB3RSywZIDTyrv-38" value="Add / define alternative raw data elements and add them to the source tables." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="570" width="110" height="90" as="geometry" />
+          <mxGeometry x="110" y="570" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fYJ6m2SB3RSywZIDTyrv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="fYJ6m2SB3RSywZIDTyrv-41" target="fYJ6m2SB3RSywZIDTyrv-35">
           <mxGeometry relative="1" as="geometry" />
