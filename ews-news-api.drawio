@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T08:52:34.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="HXpd-NlPkQ8DqwfV0DMo" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T14:17:25.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="8XjEnlCN2n9wtFNEmoH1" version="14.6.5" type="github">
   <diagram id="oThwvBxUg1dMHxMkPZIc" name="Page-1">
-    <mxGraphModel dx="1824" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="8000" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="8000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N71K2Kx4Mg54BnZ_dNbA-45" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="90" width="470" height="360" as="geometry" />
+        <mxCell id="N71K2Kx4Mg54BnZ_dNbA-45" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="480" height="360" as="geometry" />
         </mxCell>
         <mxCell id="N71K2Kx4Mg54BnZ_dNbA-1" value="BloomBerg" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="120" height="80" as="geometry" />
@@ -24,15 +24,15 @@
         <mxCell id="N71K2Kx4Mg54BnZ_dNbA-4" value="Reuters" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N71K2Kx4Mg54BnZ_dNbA-5" value="Owlin" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="N71K2Kx4Mg54BnZ_dNbA-5" value="Owlin?&lt;br&gt;$$$" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N71K2Kx4Mg54BnZ_dNbA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N71K2Kx4Mg54BnZ_dNbA-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N71K2Kx4Mg54BnZ_dNbA-9" value="EWS NEWS PIPELINE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="N71K2Kx4Mg54BnZ_dNbA-9" value="RABO EWS NEWS PIPELINE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N71K2Kx4Mg54BnZ_dNbA-11" value="Client Portfolio" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
@@ -98,13 +98,13 @@
           <mxGeometry x="560" y="285" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="N71K2Kx4Mg54BnZ_dNbA-46" value="&lt;ul style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Date&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Impact&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Sentiment&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Topic clusters&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Sector (clusters)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="300" width="140" height="120" as="geometry" />
+          <mxGeometry x="625" y="300" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N71K2Kx4Mg54BnZ_dNbA-47" value="Front-end. Cloud, (IOS &amp;amp; Android)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="180" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N71K2Kx4Mg54BnZ_dNbA-48" value="Azure&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="190" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
